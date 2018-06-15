@@ -1,0 +1,4 @@
+[17-May-2017 02:41:11 UTC] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/ubuntu/workspace/public/index.php on line 24
+[17-May-2017 02:41:16 UTC] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/ubuntu/workspace/public/index.php on line 24
+[17-May-2017 08:16:58 UTC] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/ubuntu/workspace/public/index.php on line 24
+[23-May-2017 12:29:25 UTC] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home/ubuntu/workspace/public/index.php on line 24
